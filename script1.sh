@@ -1,8 +1,10 @@
+#!/bin/bash
 file_name=temp.txt
 
 function printTable() {
     case $1 in
     -a)
+        printf "%s\n" "Список студентов:"
         cat -n $file_name
         printf "\n"
     ;;
@@ -23,7 +25,7 @@ function printTable() {
         birth)
             sort -k 3 $file_name
         ;;
-        birthpalace)
+        birthplace)
             sort -k 4 $file_name
         ;;
         sex)
@@ -129,6 +131,7 @@ function addNewString(){
 }
 
 flag=1
+printTable "-a"
 while [ $flag=1 ]
 do
 printf "%s" "> "
