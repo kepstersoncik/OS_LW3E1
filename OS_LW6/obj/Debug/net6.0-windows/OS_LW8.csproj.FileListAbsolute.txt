@@ -1,0 +1,15 @@
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.csproj.AssemblyReference.cache
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.AssemblyInfoInputs.cache
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.AssemblyInfo.cs
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.csproj.CoreCompileInputs.cache
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\bin\Debug\net6.0-windows\OS_LW8.exe
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\bin\Debug\net6.0-windows\OS_LW8.deps.json
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\bin\Debug\net6.0-windows\OS_LW8.runtimeconfig.json
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\bin\Debug\net6.0-windows\OS_LW8.dll
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\bin\Debug\net6.0-windows\OS_LW8.pdb
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.dll
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\refint\OS_LW8.dll
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.pdb
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\OS_LW8.genruntimeconfig.cache
+D:\Semester_3_2022\OS\OS_ThirdSemestr\OS_LW8\obj\Debug\net6.0-windows\ref\OS_LW8.dll
